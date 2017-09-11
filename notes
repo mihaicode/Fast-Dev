@@ -3,14 +3,18 @@
 <p>Build responsive, mobile-first projects on the web with the world's most popular front-end component library.</p>
 <p>Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.</p> -------------------------------------------------
 <h3>About the Workshop</h3>
-<p>The beautiful city of London will be the host city for Bootstrap Workshop!</p> -------------------------------------------------
+<p>The beautiful city of London will be the host city for Bootstrap Workshop!</p> 
+
+-------------------------------------------------
 <h3>What You'll Learn</h3>
 <ul>
     <li>What is Bootstrap: The basics</li>
     <li>An overview of Bootstrap: how to download and use, basic templates and examples, and more</li>
     <li>Important globals: global styles and settings that you’ll need to be aware of</li>
     <li>Components: The Jumbotron, Cards and more</li>
-</ul> ------------------------------------------------- 
+</ul> 
+
+------------------------------------------------- 
 Speakers 
 
 John Cranmer 
